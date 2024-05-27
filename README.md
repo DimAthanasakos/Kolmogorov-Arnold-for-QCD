@@ -1,0 +1,1 @@
+Application of Kolmogorov-Arnold Networks (https://arxiv.org/abs/2404.19756) to study QCD Jets. 
